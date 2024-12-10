@@ -1,0 +1,43 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#container{
+	width: 100%;
+	background-color:#f27f0c;
+}
+
+.section_header{
+	margin:20px 20px 20px 20px ;
+	color: #FFFFFF;
+	font-size: 80px;
+	text-align:center;
+	float:center;	
+	
+}
+
+.section_content {
+	color: #FFFFFF;
+	text-align:justify;
+	font-size: 40px;
+	float:center;
+}
+
+.center_content{
+	color: #FFFFFF;
+	text-align:center;
+	font-size:40px;
+	float:center;
+}
+
+.img_left {
+	width:200px;
+	margin : 10px 10px 10px 10px;
+	float: left;
+}
+
+img.right {
+	float:right;
+	margin: 20px 10px 10px 20px;
+}
